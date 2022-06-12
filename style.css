@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    padding: 9rem;
+    margin: 0;
+}
+button{
+    color: #ffffff;
+    width: 10rem;
+    height: 3rem;
+    font-size: 2rem;
+    border: none;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+h1{
+    font-size: 7rem;
+    padding: 3rem;
+}
